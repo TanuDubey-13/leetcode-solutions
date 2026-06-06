@@ -1,0 +1,25 @@
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
+int* leftRightDifference(int* nums, int numsSize, int* returnSize) {
+
+    *returnSize = numsSize;
+    int *ans = (int*)malloc(numsSize * sizeof(int));
+
+    int leftSum = 0;
+    int rightSum = 0;
+
+    // Calculate total sum
+    for (int i = 0; i < numsSize; i++) {
+        rightSum += nums[i];
+    }
+
+    // Compute differences
+    for (int i = 0; i < numsSize; i++) {
+        rightSum -= nums[i];
+        ans[i] = abs(leftSum - rightSum);
+        leftSum += nums[i];
+    }
+
+    return ans;
+}
