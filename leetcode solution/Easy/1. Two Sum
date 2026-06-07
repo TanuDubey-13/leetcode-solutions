@@ -1,0 +1,41 @@
+#include <stdlib.h>
+
+#define SIZE 100000
+
+typedef struct {
+    int key;
+    int value;
+} HashNode;
+
+HashNode hash[SIZE];
+
+int hashFunc(int key) {
+    return abs(key) % SIZE;
+}
+
+int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
+    
+    for (int i = 0; i < SIZE; i++)
+        hash[i].key = 1000000001; // mark empty
+    
+    for (int i = 0; i < numsSize; i++) {
+        int complement = target - nums[i];
+        int index = hashFunc(complement);
+        
+        if (hash[index].key == complement) {
+            int* res = (int*)malloc(2 * sizeof(int));
+            res[0] = hash[index].value;
+            res[1] = i;
+            *returnSize = 2;
+            return res;
+        }
+        
+        index = hashFunc(nums[i]);
+        hash[index].key = nums[i];
+        hash[index].value = i;
+    }
+    
+    *returnSize = 0;
+    return NULL;
+}
+
