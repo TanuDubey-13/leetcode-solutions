@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
