@@ -15,17 +15,24 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
