@@ -46,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0263-ugly-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3870-count-commas-in-range](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Prefix Sum
