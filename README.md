@@ -21,16 +21,19 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +61,8 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
