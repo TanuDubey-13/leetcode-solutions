@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -63,6 +65,7 @@
 | [0007-reverse-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3870-count-commas-in-range](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Counting
@@ -105,6 +109,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
@@ -123,4 +128,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
