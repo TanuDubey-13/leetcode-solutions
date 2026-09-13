@@ -64,6 +64,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Stack
 |  |
@@ -104,6 +105,7 @@
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
@@ -111,6 +113,7 @@
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
 |  |
 | ------- |
