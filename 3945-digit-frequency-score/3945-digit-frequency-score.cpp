@@ -3,7 +3,6 @@ public:
     int digitFrequencyScore(int n) {
         unordered_map<int, int> mpp;
         vector<int> v;
-        int original=n;
         while(n!=0){
             int dig=n%10;
             v.push_back(dig);
