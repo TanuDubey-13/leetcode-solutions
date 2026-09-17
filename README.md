@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0136-single-number) |
@@ -178,6 +179,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
