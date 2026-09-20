@@ -76,6 +76,7 @@
 | [0041-first-missing-positive](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -154,6 +155,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -179,6 +181,7 @@
 | [0016-3sum-closest](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
