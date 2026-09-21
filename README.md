@@ -112,6 +112,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -129,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search Tree
@@ -245,6 +247,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Floyd's Cycle Finding Algorithm
 |  |
