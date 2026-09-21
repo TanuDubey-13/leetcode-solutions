@@ -93,6 +93,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -147,6 +148,7 @@
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -163,6 +165,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
