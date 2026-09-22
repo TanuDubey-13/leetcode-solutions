@@ -120,6 +120,7 @@
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
+| [0728-self-dividing-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3870-count-commas-in-range](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3870-count-commas-in-range) |
