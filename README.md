@@ -33,6 +33,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -204,6 +205,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,5 +267,6 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
