@@ -38,6 +38,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -123,6 +124,7 @@
 | [0633-sum-of-square-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3870-count-commas-in-range](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
