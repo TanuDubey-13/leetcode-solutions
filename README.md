@@ -45,6 +45,7 @@
 | [3895-count-digit-appearances](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3978-unique-middle-element](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## String
 |  |
 | ------- |
