@@ -81,6 +81,7 @@
 | [0041-first-missing-positive](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -236,6 +237,7 @@
 | [0016-3sum-closest](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -290,5 +293,6 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
