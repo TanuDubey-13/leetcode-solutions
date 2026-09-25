@@ -128,6 +128,7 @@
 | [0492-construct-the-rectangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -296,4 +297,5 @@
 | [0142-linked-list-cycle-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
