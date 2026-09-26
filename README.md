@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
