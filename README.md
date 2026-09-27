@@ -122,6 +122,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
@@ -193,6 +194,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -313,4 +315,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
