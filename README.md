@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -168,6 +169,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
