@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
