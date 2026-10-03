@@ -146,6 +146,7 @@
 | [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -372,4 +373,24 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
