@@ -51,6 +51,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -157,6 +158,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3870-count-commas-in-range](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3870-count-commas-in-range) |
