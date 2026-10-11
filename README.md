@@ -52,6 +52,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Euclidean Algorithm
 |  |
 | ------- |
