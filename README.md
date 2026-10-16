@@ -69,6 +69,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0877-stone-game) |
 ## Tree
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -371,6 +373,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
@@ -430,4 +433,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
