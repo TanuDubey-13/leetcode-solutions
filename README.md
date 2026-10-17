@@ -80,6 +80,7 @@
 | [0098-validate-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -89,6 +90,7 @@
 | [0098-validate-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -98,6 +100,7 @@
 | [0098-validate-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
@@ -148,6 +151,7 @@
 | [0020-valid-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
