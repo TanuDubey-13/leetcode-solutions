@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -108,6 +109,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Brainteaser
 |  |
@@ -493,6 +496,7 @@
 | [0101-symmetric-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
@@ -507,4 +511,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
