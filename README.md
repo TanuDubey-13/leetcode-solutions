@@ -47,6 +47,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -443,6 +444,7 @@
 | [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Brainteaser
 |  |
 | ------- |
@@ -499,6 +501,7 @@
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
