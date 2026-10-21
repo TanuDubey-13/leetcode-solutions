@@ -115,6 +115,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -500,6 +501,7 @@
 | [0112-path-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
@@ -518,4 +520,17 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
