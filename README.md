@@ -78,6 +78,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0877-stone-game) |
 ## Tree
 |  |
@@ -120,6 +121,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -341,6 +343,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
@@ -514,6 +517,7 @@
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -540,6 +544,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -552,4 +557,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
