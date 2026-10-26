@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0877-stone-game) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -568,4 +570,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
