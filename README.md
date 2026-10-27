@@ -298,6 +298,7 @@
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -371,6 +372,7 @@
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
