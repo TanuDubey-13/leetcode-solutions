@@ -43,6 +43,7 @@
 | [0704-binary-search](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search Tree
@@ -375,6 +377,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -389,6 +392,7 @@
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Pigeonhole Principle
 |  |
@@ -464,6 +468,7 @@
 | [0130-surrounded-regions](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Brainteaser
