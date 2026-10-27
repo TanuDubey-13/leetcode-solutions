@@ -73,6 +73,7 @@
 | [3895-count-digit-appearances](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3978-unique-middle-element](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
@@ -383,6 +384,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3884-first-matching-character-from-both-ends](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
 | ------- |
