@@ -220,6 +220,7 @@
 | [0009-palindrome-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -316,6 +317,7 @@
 | [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0171-excel-sheet-column-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0383-ransom-note) |
