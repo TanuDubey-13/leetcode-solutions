@@ -41,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -229,6 +230,7 @@
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
