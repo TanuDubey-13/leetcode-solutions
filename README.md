@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0198-house-robber) |
@@ -225,6 +226,7 @@
 | [0007-reverse-integer](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0202-happy-number) |
@@ -625,4 +627,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
