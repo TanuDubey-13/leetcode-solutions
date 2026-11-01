@@ -65,6 +65,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -296,6 +297,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
@@ -371,6 +373,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
