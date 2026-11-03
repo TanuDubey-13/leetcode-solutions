@@ -21,6 +21,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -89,6 +90,7 @@
 | [0062-unique-paths](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -637,4 +639,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
