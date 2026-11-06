@@ -63,6 +63,7 @@
 | [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -314,6 +315,7 @@
 | [0704-binary-search](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -527,6 +529,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Brainteaser
 |  |
