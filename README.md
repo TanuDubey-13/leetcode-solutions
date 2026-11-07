@@ -66,6 +66,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -317,6 +318,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
