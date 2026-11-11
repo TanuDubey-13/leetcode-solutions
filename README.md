@@ -18,6 +18,7 @@
 | [0048-rotate-image](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -398,6 +399,7 @@
 | [0015-3sum](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -439,6 +441,7 @@
 | [0016-3sum-closest](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -689,4 +692,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
