@@ -239,6 +239,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -385,6 +386,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -701,4 +703,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
