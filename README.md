@@ -135,6 +135,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -159,6 +160,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -187,6 +189,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -623,6 +626,7 @@
 | [0200-number-of-islands](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
