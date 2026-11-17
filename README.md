@@ -131,6 +131,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
@@ -185,6 +186,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
@@ -317,6 +319,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
@@ -479,6 +482,7 @@
 | ------- |
 | [0136-single-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
