@@ -388,6 +388,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2810-faulty-keyboard) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3330-find-the-original-typed-string-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
