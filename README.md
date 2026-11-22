@@ -387,6 +387,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2810-faulty-keyboard](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3330-find-the-original-typed-string-i](https://github.com/TanuDubey-13/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
